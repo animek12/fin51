@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283122852424','6283122852424']
-global.ownernomer = "6283122852424"
-global.premium = ['6283122852424']
-global.packname = 'Kadz'
-global.author = 'Kadz Store'
+global.owner = ['6282261065144','6282261065144']
+global.ownernomer = "6282261065144"
+global.premium = ['6282261065144']
+global.packname = 'Fin Md'
+global.author = 'Fin Ofc'
 global.sessionName = 'didinsec'
 global.prefa = ['','!','.','#','&']
-global.namebotmu = 'KadzBotz'
-global.tutorial = 'https://youtu.be/hHQRs_eCoXM'
+global.namebotmu = 'Fin Md'
+global.tutorial = 'https://youtu.be/pBO2oTL2OjE'
 global.sp = ''
 global.mess = {
     success: 'Done',
@@ -44,7 +44,7 @@ global.mess = {
 
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 20,
     monayawal: 1000
 }
    global.rpg = {
