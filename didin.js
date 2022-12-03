@@ -2,7 +2,7 @@
 // LU JUAL ? YAUDAH W ENC LAGI MWHEHEHE//
 // DAH DI KASIH FREE MININAL SUBSCRIBE LAH BANG\nJangan Hapus THANK TO//
 //🌹 THANK TO : //
-// •  [DIDIN] / [ nama mu //
+// •  [DIDIN] / [FIN OFC] //
 
 //MAKASIH All YG DAH BANTU W:v
 // EROR FIX SENDIRI BANG
